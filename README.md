@@ -29,4 +29,5 @@ be in place for workshop to work; can be combined with intermediate workshop, de
 workshop participants;
 
 * (http://www.exitsantacruz.com/zotnet/zotnet.php)
+* (https://pyzotero.readthedocs.io/en/latest/)
 * …
