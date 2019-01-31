@@ -15,12 +15,12 @@ g. Once you are registered (or later: logged in), Zotero welcomes you with a lan
 h. We want to run Zotero on our own machines, so lets click on the big red button in the middle that says `Download`!
 i. Zotero will automatically identify your Operating System (OS) and propose the latest stable version for you to download. If you are unsure if this is the correct OS or you want an earlier version of Zotero, you can manually select the OS or version 4.0 of Zotero. (Zotero supports standalone versions for all common platforms like Mac, Windows as well as Linux.)
 j. Is the correct version and OS selected, click on the blue `Download`button. The download will start automatically.
-k. Navigate to where the file was downloaded to. This might be your Downloads-folder
+k. Navigate to where the file was downloaded to. This might be your Downloads-folder or another location. If you are unsure, you can use the Search function and type "Zotero". (On Mac click on the magnifying glass symbol in the upper right corner. On Windows, open the file explorer and ty
 
 
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyMTk2ODEsLTE5MDk1Mzc2MzRdfQ
+eyJoaXN0b3J5IjpbLTE3MDYzOTY2ODksLTE5MDk1Mzc2MzRdfQ
 ==
 -->
