@@ -9,9 +9,9 @@ c. You will get a window that looks similar to this
 <!-- <img src="/images/snapshot_zotero_login.png" alt="Zotero.org login page" width="400"/> -->
 d. In the upper right corner, click on `Register`  
 <!-- <img src="/images/snapshot_zotero_register.png" alt="Zotero.org register form" width="400"/> -->
-
+e. Use a suitable username – you could use one you have on other research platforms (if it is available) or try a variation on your name. 
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDgxMjA2MV19
+eyJoaXN0b3J5IjpbOTQyNDc2MTI3XX0=
 -->
