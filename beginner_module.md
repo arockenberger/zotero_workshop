@@ -13,9 +13,10 @@ f. Click the blue button `Register`once you have entered all necessary informati
 g. Once you are registered (or later: logged in), Zotero welcomes you with a landing page like this
 ![Zotero.org landing page](/images/snapshot_zotero_landingpage.png)
 h. We want to run Zotero on our own machines, so lets click on the big red button in the middle that says `Download`!
-i. Zotero will automatically identify your Operating System (OS) and propose the latest stable version for you to download. If you are u
+i. Zotero will automatically identify your Operating System (OS) and propose the latest stable version for you to download. If you are unsure if this is the correct OS or you want an earlier version of Zotero, you can manually select the OS or version 4.0 of Zotero. (Zotero supports standalone versions for all common platforms like Mac, Windows as well as Linux.)
+
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2MzAyMywtMTkwOTUzNzYzNF19
+eyJoaXN0b3J5IjpbLTg4MTAwNTUwNSwtMTkwOTUzNzYzNF19
 -->
