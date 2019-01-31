@@ -12,9 +12,10 @@ f. Click the blue button `Register`once you have entered all necessary informati
 *! Check what happens afterwards !*
 g. Once you are registered (or later: logged in), Zotero welcomes you with a landing page like this
 ![Zotero.org landing page](/images/snapshot_zotero_landingpage.png)
-h. We want to run 
+h. We want to run Zotero on our own machines, so lets click on the big red button in the middle that says `Download`! Zotero will automatically identify your Operating System (OS) and propose the lates
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjc0MDk0NiwtMTkwOTUzNzYzNF19
+eyJoaXN0b3J5IjpbLTE4Mzg3MzQ3NjUsLTE5MDk1Mzc2MzRdfQ
+==
 -->
