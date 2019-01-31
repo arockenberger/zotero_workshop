@@ -12,9 +12,9 @@ f. Click the blue button `Register`once you have entered all necessary informati
 *! Check what happens afterwards !*
 g. Once you are registered (or later: logged in), Zotero welcomes you with a landing page like this
 ![Zotero.org landing page](/images/snapshot_zotero_landingpage.png)
-h. 
+h. We want to run 
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk1Mzc2MzRdfQ==
+eyJoaXN0b3J5IjpbMTU2Mjc0MDk0NiwtMTkwOTUzNzYzNF19
 -->
