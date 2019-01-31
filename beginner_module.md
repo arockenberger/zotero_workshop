@@ -2,8 +2,11 @@
 
 1. Short introductory presentation of Zotero
 2. Getting started
+  
   a. In your browser, navigate to website [Zotero.org](https://www.zotero.org/)
+  
   b. Click on `Login` in the upper right corner
+  
   c. You will get a window that looks similar to this
 
 <img src="/images/snapshot_zotero_login.png" alt="Zotero.org login page" width="400"/>
