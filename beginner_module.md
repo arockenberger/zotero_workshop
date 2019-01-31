@@ -10,9 +10,11 @@ d. In the upper right corner, click on `Register`
 e. Use a suitable username – you could use one you have on other research platforms (if it is available) or try a variation on your name. When choosing the email address for your registration, keep in mind if you need access to Zotero after changing jobs or graduating. Zotero allows you to store an additional email address, too, in case you loose access to your primary registration email. Don't forget to take a look at the Terms of Service!
 f. Click the blue button `Register`once you have entered all necessary information.
 *! Check what happens afterwards !*
-g. Once you are registered (or later: logged i
+g. Once you are registered (or later: logged in), Zotero welcomes you with a landing page like this
+![Zotero.org landing page](/images/snapshot_zotero_landingpage.png)
+h. 
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU4MDYwOV19
+eyJoaXN0b3J5IjpbLTE5MDk1Mzc2MzRdfQ==
 -->
