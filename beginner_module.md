@@ -9,9 +9,9 @@ c. You will get a window that looks similar to this
 <!-- <img src="/images/snapshot_zotero_login.png" alt="Zotero.org login page" width="400"/> -->
 d. In the upper right corner, click on `Register`  
 <!-- <img src="/images/snapshot_zotero_register.png" alt="Zotero.org register form" width="400"/> -->
-e. Use a suitable username – you could use one you have on other research platforms (if it is available) or try a variation on your name. 
+e. Use a suitable username – you could use one you have on other research platforms (if it is available) or try a variation on your name. When choosing the email address for your registration, keep in mind if you need access to Zotero after changing jobs or graduating. Zotero allows
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNDc2MTI3XX0=
+eyJoaXN0b3J5IjpbLTQ1NjY4ODE4OF19
 -->
