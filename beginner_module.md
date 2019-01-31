@@ -3,7 +3,7 @@
 1. Short introductory presentation of Zotero
 2. Getting started
   
-  a. In your browser, navigate to website (https://www.zotero.org/)
+  In your browser, navigate to website (https://www.zotero.org/)
   
   b. Click on `Login` in the upper right corner
   
@@ -16,3 +16,6 @@
 <img src="/images/snapshot_zotero_register.png" alt="Zotero.org register form" width="400"/>
   
   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0ODg3NzUyMl19
+-->
